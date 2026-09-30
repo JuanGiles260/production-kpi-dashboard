@@ -4,6 +4,8 @@ Turn a daily production log into an OEE dashboard in one command.
 Built from hands-on experience in a manufacturing plant's production area: the numbers
 supervisors actually ask for, without a BI license.
 
+**Live demo:** https://juangiles260.github.io/production-kpi-dashboard/
+
 ![Dashboard](docs/screenshot.png)
 
 ## What you get
