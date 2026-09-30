@@ -1,0 +1,73 @@
+date,line,shift,planned_time_min,downtime_min,downtime_reason,ideal_cycle_time_s,total_count,good_count
+2026-09-01,Line 1,Morning,480,0,,2.4,11050,10619
+2026-09-01,Line 1,Afternoon,480,0,,2.4,9593,9433
+2026-09-01,Line 2,Morning,480,60,Changeover,3.0,6701,6436
+2026-09-01,Line 2,Afternoon,480,20,Quality check,3.0,8401,8139
+2026-09-01,Line 3,Morning,480,30,Cleaning,1.8,11718,11557
+2026-09-01,Line 3,Afternoon,480,45,Changeover,1.8,11903,11716
+2026-09-02,Line 1,Morning,480,0,,2.4,10226,9879
+2026-09-02,Line 1,Afternoon,480,30,Cleaning,2.4,10334,10066
+2026-09-02,Line 2,Morning,480,60,Changeover,3.0,7019,6866
+2026-09-02,Line 2,Afternoon,480,45,Mechanical failure,3.0,7950,7568
+2026-09-02,Line 3,Morning,480,30,Operator absence,1.8,14137,13981
+2026-09-02,Line 3,Afternoon,480,90,Mechanical failure,1.8,11041,10672
+2026-09-03,Line 1,Morning,480,30,Quality check,2.4,10236,9757
+2026-09-03,Line 1,Afternoon,480,20,Changeover,2.4,9799,9745
+2026-09-03,Line 2,Morning,480,20,Quality check,3.0,8649,8518
+2026-09-03,Line 2,Afternoon,480,0,,3.0,8956,8669
+2026-09-03,Line 3,Morning,480,0,,1.8,15255,14881
+2026-09-03,Line 3,Afternoon,480,20,Mechanical failure,1.8,13112,12996
+2026-09-04,Line 1,Morning,480,30,Changeover,2.4,10367,10100
+2026-09-04,Line 1,Afternoon,480,60,Cleaning,2.4,8986,8625
+2026-09-04,Line 2,Morning,480,90,Changeover,3.0,6153,5875
+2026-09-04,Line 2,Afternoon,480,60,Mechanical failure,3.0,7166,6999
+2026-09-04,Line 3,Morning,480,30,Operator absence,1.8,14153,13452
+2026-09-04,Line 3,Afternoon,480,30,Quality check,1.8,12669,12202
+2026-09-05,Line 1,Morning,480,0,,2.4,11534,11411
+2026-09-05,Line 1,Afternoon,480,15,Mechanical failure,2.4,9302,9098
+2026-09-05,Line 2,Morning,480,20,Changeover,3.0,8508,8289
+2026-09-05,Line 2,Afternoon,480,0,,3.0,8580,8339
+2026-09-05,Line 3,Morning,480,0,,1.8,13583,13506
+2026-09-05,Line 3,Afternoon,480,20,Changeover,1.8,14517,14409
+2026-09-07,Line 1,Morning,480,0,,2.4,10468,9977
+2026-09-07,Line 1,Afternoon,480,15,Changeover,2.4,10117,9861
+2026-09-07,Line 2,Morning,480,60,Operator absence,3.0,8034,7905
+2026-09-07,Line 2,Afternoon,480,30,Material shortage,3.0,8168,7896
+2026-09-07,Line 3,Morning,480,90,Changeover,1.8,10695,10322
+2026-09-07,Line 3,Afternoon,480,20,Mechanical failure,1.8,11980,11762
+2026-09-08,Line 1,Morning,480,0,,2.4,9513,9050
+2026-09-08,Line 1,Afternoon,480,20,Changeover,2.4,10030,9771
+2026-09-08,Line 2,Morning,480,90,Changeover,3.0,6784,6569
+2026-09-08,Line 2,Afternoon,480,0,,3.0,8689,8393
+2026-09-08,Line 3,Morning,480,0,,1.8,14527,14444
+2026-09-08,Line 3,Afternoon,480,0,,1.8,13703,13227
+2026-09-09,Line 1,Morning,480,20,Changeover,2.4,10141,9697
+2026-09-09,Line 1,Afternoon,480,90,Changeover,2.4,9315,9034
+2026-09-09,Line 2,Morning,480,10,Changeover,3.0,9116,9003
+2026-09-09,Line 2,Afternoon,480,20,Changeover,3.0,8024,7699
+2026-09-09,Line 3,Morning,480,0,,1.8,12980,12332
+2026-09-09,Line 3,Afternoon,480,90,Changeover,1.8,11860,11656
+2026-09-10,Line 1,Morning,480,90,Changeover,2.4,8154,8101
+2026-09-10,Line 1,Afternoon,480,0,,2.4,11065,10540
+2026-09-10,Line 2,Morning,480,15,Changeover,3.0,8151,8055
+2026-09-10,Line 2,Afternoon,480,0,,3.0,7611,7525
+2026-09-10,Line 3,Morning,480,20,Mechanical failure,1.8,12075,11515
+2026-09-10,Line 3,Afternoon,480,45,Operator absence,1.8,11872,11661
+2026-09-11,Line 1,Morning,480,60,Changeover,2.4,9477,9198
+2026-09-11,Line 1,Afternoon,480,10,Changeover,2.4,10551,10290
+2026-09-11,Line 2,Morning,480,0,,3.0,8468,8237
+2026-09-11,Line 2,Afternoon,480,0,,3.0,8124,7742
+2026-09-11,Line 3,Morning,480,30,Changeover,1.8,14076,13817
+2026-09-11,Line 3,Afternoon,480,0,,1.8,14510,14146
+2026-09-12,Line 1,Morning,480,10,Operator absence,2.4,9464,9039
+2026-09-12,Line 1,Afternoon,480,0,,2.4,10621,10220
+2026-09-12,Line 2,Morning,480,45,Changeover,3.0,7834,7535
+2026-09-12,Line 2,Afternoon,480,0,,3.0,7656,7419
+2026-09-12,Line 3,Morning,480,0,,1.8,13494,12898
+2026-09-12,Line 3,Afternoon,480,15,Quality check,1.8,13714,13292
+2026-09-14,Line 1,Morning,480,0,,2.4,9531,9433
+2026-09-14,Line 1,Afternoon,480,0,,2.4,11262,10994
+2026-09-14,Line 2,Morning,480,0,,3.0,7720,7441
+2026-09-14,Line 2,Afternoon,480,0,,3.0,9127,8756
+2026-09-14,Line 3,Morning,480,10,Material shortage,1.8,13886,13738
+2026-09-14,Line 3,Afternoon,480,15,Operator absence,1.8,12787,12241
